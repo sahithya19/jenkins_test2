@@ -2,7 +2,7 @@ def add(a,b):
     return a + b
 
 def sub(a,b):
-    return a - b
+    return 3 - 2
 
 def mul(a,b):
     return a * b    
